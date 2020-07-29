@@ -1,0 +1,10 @@
+2020-06-29T22:39:17+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\class-wp-hook.php(289): add_my_account_reminders_link(Array)
+#1 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\includes\wc-account-functions.php(130): apply_filters('woocommerce_acc...', Array, Array)
+#3 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\templates\myaccount\navigation.php(27): wc_get_account_menu_items()
+#4 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3044): wc_get_template('myaccount/navig...')
+#6 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\class-wp-hook.php(287): woocommerce_ac in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 147
+

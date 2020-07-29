@@ -1,0 +1,16 @@
+2020-07-17T01:17:01+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 129
+
+2020-07-17T01:17:35+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 129
+
+2020-07-17T01:18:35+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 140
+
+2020-07-17T01:19:21+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 129
+
+2020-07-17T01:19:48+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 129
+
+2020-07-17T01:19:49+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 129
+
+2020-07-17T01:20:08+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 128
+
+2020-07-17T01:20:38+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 128
+

@@ -1,0 +1,11 @@
+2020-06-24T01:28:18+00:00 CRITICAL Uncaught Error: Call to undefined function is_logged_in() in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php:84
+Stack trace:
+#0 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\class-wp-hook.php(287): cart_CTA('')
+#1 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\templates\cart\cart.php(20): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#6 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#7 C:\xampp\htdocs in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\functions.php on line 84
+

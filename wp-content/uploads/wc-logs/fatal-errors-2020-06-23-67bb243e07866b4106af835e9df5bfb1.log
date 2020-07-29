@@ -1,0 +1,10 @@
+2020-06-23T17:02:49+00:00 CRITICAL Uncaught Error: Call to undefined function plugin_id_url() in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\tab-menu-block\tab-menu-block-plugin.php:10
+Stack trace:
+#0 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\class-wp-hook.php(287): load_my_block('')
+#1 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\kontaktne-lece.eu\wp-admin\edit-form-blocks.php(379): do_action('enqueue_block_e...')
+#4 C:\xampp\htdocs\kontaktne-lece.eu\wp-admin\post.php(187): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\plugins\tab-menu-block\tab-menu-block-plugin.php on line 10
+

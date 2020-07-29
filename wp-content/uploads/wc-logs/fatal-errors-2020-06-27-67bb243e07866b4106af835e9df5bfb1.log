@@ -1,0 +1,12 @@
+2020-06-27T14:50:29+00:00 CRITICAL Uncaught Error: Call to undefined function pll_current_language() in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\related-posts.php:8
+Stack trace:
+#0 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\template.php(725): require()
+#1 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\single.php(26): get_template_part('related', 'posts')
+#4 C:\xampp\htdocs\kontaktne-lece.eu\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\kontaktne-lece.eu\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kontaktne-lece.eu\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\kontaktne-lece.eu\wp-content\themes\storefront-child\related-posts.php on line 8
+
